@@ -3,8 +3,6 @@
 # Asul
 A platformer video game made in Unity for windows written in c#.
 <hr>
-<br>
-<br>
 <strong>Type:</strong> Indie.
 <br>
 <br>
