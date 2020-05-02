@@ -4,6 +4,7 @@
 A platformer video game made in Unity for windows written in c#.
 <br>
 <br>
+<hr>
 <strong>Type:</strong> Indie.
 <br>
 <br>
