@@ -1,7 +1,7 @@
+![](https://i.imgur.com/S683TuR.jpg)
+
 # Asul
 A platformer video game made in Unity for windows written in c#.
-
-![](https://i.imgur.com/S683TuR.jpg)
 <br>
 <br>
 <strong>Type:</strong> Indie.
