@@ -2,7 +2,6 @@
 A platformer video game made in Unity for windows written in c#.
 
 ![](https://i.imgur.com/S683TuR.jpg)
-![](https://i.imgur.com/2VdVv7r.jpg)
 <br>
 <br>
 <strong>Type:</strong> Indie.
@@ -39,4 +38,7 @@ A platformer video game made in Unity for windows written in c#.
 <br>
 <br>
 <strong>Penalties:</strong> Being an exploration video game I will not include common penalties, what it will have is for example if the character is swimming to be able to move faster and activate a sprint when pressing a button or if the scenario has a weather like a storm do let the wind slow down the main character.
+<br>
+<br>
+![](https://i.imgur.com/2VdVv7r.jpg)
 
